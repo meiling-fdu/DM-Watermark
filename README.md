@@ -20,10 +20,6 @@ Survey of watermarking for diffusion models
 
 ---
 
-- 2023 **Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust** (Wen) University of Maryland
-  - paper: https://arxiv.org/pdf/2305.20030.pdf (arXiv)
-  - code: https://github.com/YuxinWenRick/tree-ring-watermark
-
 - 20230317 **A Recipe for Watermarking Diffusion Models** (Zhao) Singapore University of Technology and Design
   - paper: https://arxiv.org/pdf/2303.10137.pdf （arXiv）
   - code: https://github.com/yunqing-me/WatermarkDM
@@ -45,3 +41,6 @@ Kong
    - paper: https://arxiv.org/pdf/2306.03436.pdf (arXiv)
    - code: https://github.com/RainbowSci/improved-diffusion/tree/main
 
+- 20230704 **Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust** (Wen) University of Maryland
+  - paper: https://arxiv.org/pdf/2305.20030.pdf (arXiv)
+  - code: https://github.com/YuxinWenRick/tree-ring-watermark
