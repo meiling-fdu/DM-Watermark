@@ -14,7 +14,8 @@ Survey of watermarking for diffusion models
   - code: https://github.com/facebookresearch/stable_signature
   - demo: https://pierrefdz.github.io/publications/stablesignature/
 
-- 2023 **DocDiff: Document Enhancement via Residual Diffusion Models**
+- 2023 **DocDiff: Document Enhancement via Residual Diffusion Models** (Yang) Beijing University of Posts and Telecommunications
+Telecommunications
   - paper: https://arxiv.org/pdf/2305.03892v1.pdf (ACM Multimedia 2023)
   - code: https://github.com/Royalvice/DocDiff
 
